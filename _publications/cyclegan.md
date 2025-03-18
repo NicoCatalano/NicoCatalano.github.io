@@ -1,0 +1,13 @@
+---
+title: "A comparative study of Fourier transform and CycleGAN as domain adaptation techniques for weed segmentation"
+collection: publications
+category: manuscripts
+permalink: /publication/cycle_gan_weed_segmentation
+#excerpt: 'This paper is about fixing template issue #693.'
+date: 2023-01-01
+venue: 'Smart Agricultural Technology'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S2772375523000187'
+citation: 'Bertoglio, R., Mazzucchelli, A., Catalano, N., & Matteucci, M. (2023). A comparative study of Fourier transform and CycleGAN as domain adaptation techniques for weed segmentation. Smart agricultural technology, 4, 100188.'
+---
+
+Automatic weed identification is becoming increasingly important in the Precision Agriculture field as a fundamental capability for targeted spraying or mechanical weed destruction. Targeted weed elimination reduces herbicides' use and thus lowers the environmental impact of treatments. Convolutional Neural Networks are one of the most successful techniques to automatically detect weeds on RGB images. Such models require a high amount of labeled data to obtain satisfying detection performance. The agricultural context presents a high degree of variability, and it is thus unfeasible to expect a representative dataset for each specific condition that can appear in the fields. Domain Adaptation techniques are exploited to maintain high detection performance in different field conditions, lowering the need for labeled data. This study presents a comparison of the two main style transfer techniques for performing domain adaptation, that is, the Fourier Transform and the CycleGAN architecture. We used these techniques to reduce the domain gap in two use cases: one with images collected by different robots with different cameras and another with images collected by the same platform in different years. We show how, in the first case, the CycleGAN architecture attains satisfying performance and beats the simpler Fourier Transform. Instead, in the second case, all the tested DA techniques struggle to reach baseline performance. We also show how introducing a loss based on phase discrepancy in the CycleGAN architecture stabilizes the training and improves the performance. Moreover, we release a new dataset of labeled agricultural images and the code of our experiments for the reproducibility of the results and comparison with future works.
