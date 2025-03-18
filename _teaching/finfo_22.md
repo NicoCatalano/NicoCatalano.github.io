@@ -2,7 +2,7 @@
 title: "Lab Assistant of Fundamentals of Computer Science"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/finfo
+permalink: /teaching/finfo_22
 venue: "Politecnico di Milano"
 date: 2022-01-01 to Present
 ---
