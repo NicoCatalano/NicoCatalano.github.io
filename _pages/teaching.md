@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching
-
 
 ## [Teaching Assistant Artificial Intelligence](https://nicocatalano.github.io/teaching/ai_25)  
 **Undergraduate course, *Politecnico di Milano*, 2025 - Present**  
