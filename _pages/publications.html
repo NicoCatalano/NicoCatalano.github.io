@@ -6,31 +6,75 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar
+    profile</a>.</div>
 {% endif %}
 
 
-
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline"> <a
+        href="https://nicocatalano.github.io/publication/fss_ensemble" rel="permalink">More than the Sum of Its Parts:
+        Ensembling Backbone Networks for Few-Shot Segmentation </a></h2>
+    <p>Published in <i>2024 International Joint Conference on Neural Networks (IJCNN)</i>, 2024</p>
+    <p class="archive__item-excerpt" itemprop="description"></p>
+    <p></p>
+    <p>Recommended citation: Catalano, N., Maranelli, A., Chiatti, A., &amp; Matteucci, M. (2024, June). More than the
+      Sum of Its Parts: Ensembling Backbone Networks for Few-Shot Segmentation. In 2024 International Joint Conference
+      on Neural Networks (IJCNN) (pp. 1-8). IEEE. <br><a href="https://arxiv.org/pdf/2402.06581">Download Paper</a></p>
+  </article>
+</div>
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline"> <a href="https://nicocatalano.github.io/publication/fss_weeds"
+        rel="permalink">Tackling Environmental Variability: Few Shot Segmentation for Domain-Adaptive Weed Segmentation
+        in Agricultural Robotics </a></h2>
+    <p>Published in <i>2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)</i>, 2024
+    </p>
+    <p class="archive__item-excerpt" itemprop="description"></p>
+    <p></p>
+    <p>Recommended citation: Catalano, N., Leone, M., &amp; Matteucci, M. (2024, August). Tackling Environmental
+      Variability: Few Shot Segmentation for Domain-Adaptive Weed Segmentation in Agricultural Robotics. In 2024 IEEE
+      20th International Conference on Automation Science and Engineering (CASE) (pp. 583-588). IEEE.<br><a
+        href="https://ieeexplore.ieee.org/abstract/document/10711616">Download Paper</a></p>
+  </article>
+</div>
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline"> <a
+        href="https://nicocatalano.github.io/publication/Few_Shot_Semantic_Segmentation_a_review_of_methodologies_and_open_challenges"
+        rel="permalink">Few shot semantic segmentation: a review of methodologies and open challenges </a></h2>
+    <p>Published in <i>Arxiv</i>, 2023</p>
+    <p class="archive__item-excerpt" itemprop="description"></p>
+    <p></p>
+    <p>Recommended citation: Catalano, Nico, and Matteo Matteucci. "Few shot semantic segmentation: a review of
+      methodologies and open challenges." <br><a href="https://arxiv.org/pdf/2304.05832">Download Paper</a></p>
+  </article>
+</div>
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline"> <a
+        href="https://nicocatalano.github.io/publication/fine_tune_grape" rel="permalink">Surgical fine-tuning for grape
+        bunch segmentation under visual domain shifts </a></h2>
+    <p>Published in <i>2023 European Conference on Mobile Robots (ECMR).</i>, 2023</p>
+    <p class="archive__item-excerpt" itemprop="description"></p>
+    <p></p>
+    <p>Recommended citation: Chiatti, A., Bertoglio, R., Catalano, N., Gatti, M., &amp; Matteucci, M. (2023, September).
+      Surgical fine-tuning for grape bunch segmentation under visual domain shifts. In 2023 European Conference on
+      Mobile Robots (ECMR) (pp. 1-7). IEEE.<br><a href="https://arxiv.org/pdf/2307.00837">Download Paper</a></p>
+  </article>
+</div>
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline"> <a
+        href="https://nicocatalano.github.io/publication/cycle_gan_weed_segmentation" rel="permalink">A comparative
+        study of Fourier transform and CycleGAN as domain adaptation techniques for weed segmentation </a></h2>
+    <p>Published in <i>Smart Agricultural Technology</i>, 2023</p>
+    <p class="archive__item-excerpt" itemprop="description"></p>
+    <p></p>
+    <p>Recommended citation: Bertoglio, R., Mazzucchelli, A., Catalano, N., &amp; Matteucci, M. (2023). A comparative
+      study of Fourier transform and CycleGAN as domain adaptation techniques for weed segmentation. Smart agricultural
+      technology, 4, 100188.<br><a href="https://www.sciencedirect.com/science/article/pii/S2772375523000187">Download
+        Paper</a></p>
+  </article>
+</div>
