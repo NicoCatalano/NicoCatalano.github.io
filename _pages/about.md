@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I’m a PhD candidate at [Politecnico Di Milano](https://www.polimi.it) where I conduct research in **Computer Vision** and **Artificial Intelligence**. My work is based at the [Artificial Intelligence and Robotics Lab (AIRLab)](https://airlab.deib.polimi.it) under the guidance of [Prof. Matteo Matteucci](https://www.deib.polimi.it/eng/people/details/267262).
+I’m a Postdoctoral Research Fellow at [Politecnico Di Milano](https://www.polimi.it) where I conduct research in **Computer Vision** and **Artificial Intelligence**. My work is based at the [Artificial Intelligence and Robotics Lab (AIRLab)](https://airlab.deib.polimi.it) under the guidance of [Prof. Matteo Matteucci](https://www.deib.polimi.it/eng/people/details/267262).
 
 
 
