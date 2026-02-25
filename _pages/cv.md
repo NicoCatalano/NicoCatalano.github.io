@@ -65,7 +65,7 @@ My research focuses on Artificial Intelligence, Robotics, and Autonomous Systems
 - **2025 - Present**: *Following Temporal Graph Traces in Videos* – Donald Gera
 - **2025 - Present**: *Multimodal Few Shot Segmentation in Videos* – Michele Cavicchioli
 - **2025 - Present**: *Training Vision Tasks Using Diagnostic Text Description Loss* – Luca Olivieri 
-- **2024 - Present**: *Understanding Video Content with Multimodal Large Language Models and Graphs* – Fabio Lusha  
+- **2024 - 2025**: *Understanding Video Content with Multimodal Large Language Models and Graphs* – Fabio Lusha  
 - **2024 - 2025**: *Visual Foundation Model for Few-Shot Segmentation and Anomaly Detection* – Paolo Pertino  
 - **2023**: *Enhancing Agricultural Image Embeddings for Detecting Weeds in Few-Shot Segmentation* – Alessandro Maranelli  
 - **2022 - 2023**: *The Devil is in the Details: A Few-Shot Approach for Small Weeds Segmentation* – Monica Leone  
