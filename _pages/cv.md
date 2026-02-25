@@ -62,7 +62,7 @@ My research focuses on Artificial Intelligence, Robotics, and Autonomous Systems
 ---
 
 ## Thesis Mentoring
-- **2025 - Present**: *Following Temporal Graph Traces in Videos* – Donald Gera
+- **2026 - Present**: *Following Temporal Graph Traces in Videos* – Donald Gera
 - **2025 - Present**: *Multimodal Few Shot Segmentation in Videos* – Michele Cavicchioli
 - **2025 - Present**: *Training Vision Tasks Using Diagnostic Text Description Loss* – Luca Olivieri 
 - **2024 - 2025**: *Understanding Video Content with Multimodal Large Language Models and Graphs* – Fabio Lusha  
