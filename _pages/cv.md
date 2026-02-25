@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 
 ### **Politecnico di Milano, Milan, Italy**
-**PhD in Computer Science and Engineering** (November 2021 - Present)  
+**PhD in Computer Science and Engineering** (November 2021 - April 2025)  
 - Thesis: *Few Shot Segmentation to Combat Data Drought in Precision Agriculture*  
 - Advisor: Prof. Matteo Matteucci  
 
