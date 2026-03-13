@@ -42,18 +42,23 @@ My research focuses on Artificial Intelligence, Robotics, and Autonomous Systems
 ## Publications
 
 ### **Published**
-- **Nico Catalano, Monica Leone, Matteo Matteucci.** *Few Shot Segmentation for Domain-Adaptive Weed Segmentation in Agricultural Robotics.* CASE 2024.  
-- **Nico Catalano, Alessandro Maranelli, Agnese Chiatti, Matteo Matteucci.** *Ensembling Backbone Networks for Few-Shot Segmentation.* IJCNN 2024.  
-- **Riccardo Bertoglio, Alessio Mazzucchelli, Nico Catalano, Matteo Matteucci.** *Fourier Transform and CycleGAN for Domain Adaptation in Weed Segmentation.* Smart Agricultural Technology, 2023.  
-- **Agnese Chiatti, Riccardo Bertoglio, Nico Catalano, Matteo Gatti, Matteo Matteucci.** *Surgical Fine-Tuning for Grape Bunch Segmentation Under Visual Domain Shifts.* ECMR 2023.  
+- *Balancing Accuracy and Cost in Precision Agriculture: A Few-Shot Learning Approach for Efficient Weed-Crop Segmentation.* **Nico Catalano**, Sofia Matilde Luglio, Agnese Chiatti, Mino Sportelli, Christian Frasconi, Davide Facchinetti, Matteo Matteucci. Computers and Electronics in Agriculture 2026.  
+- *MARS: a multimodal alignment and ranking system for few-shot segmentation.* **Nico Catalano**, Stefano Samele, Paolo Pertino, Matteo Matteucci. WACV 2026.
+- *Differentiable Hierarchical Visual Tokenization.* Marius Aasan, Martine Hjelkrem-Tan, **Nico Catalano**, Changkyu Choi, Adín Ramírez Rivera. NeurIPS 2025.
+- *Graph Against the Machine: Neuro-Symbolic Approach for Enhanced Video Question Answering.* Fabio Lusha, Agnese Chiatti, Sara Pidò, **Nico Catalano**, Matteo Matteucci. Workshop of ECAI 2025.
+- *Tackling Environmental Variability: Few Shot Segmentation for Domain-Adaptive Weed Segmentation in Agricultural Robotics.* **Nico Catalano**, Monica Leone, Matteo Matteucci.  CASE 2024.  
+- *More than the Sum of Its Parts: Ensembling Backbone Networks for Few-Shot Segmentation* **Nico Catalano**, Alessandro Maranelli, Agnese Chiatti, Matteo Matteucci. IJCNN 2024.  
+- *Surgical Fine-Tuning for Grape Bunch Segmentation Under Visual Domain Shifts.* Agnese Chiatti, Riccardo Bertoglio, **Nico Catalano**, Matteo Gatti, Matteo Matteucci. ECMR 2023.  
+- *A comparative study of Fourier transform and CycleGAN as domain adaptation techniques for weed segmentation* Riccardo Bertoglio, Alessio Mazzucchelli, **Nico Catalano**, Matteo Matteucci. Smart Agricultural Technology, 2023.  
 
 ### **Under Review / Preprints**
 - **Nico Catalano, Matteo Matteucci.** *Few Shot Semantic Segmentation: A Review of Methodologies, Benchmarks, and Open Challenges.* arXiv:2304.05832.  
-- **Nico Catalano, Sofia Matilde Luglio, Agnese Chiatti, Mino Sportelli, Christian Frasconi, Davide Facchinetti, Matteo Matteucci.** *Balancing Accuracy and Cost in Precision Agriculture: A Few-Shot Learning Approach for Efficient Weed-Crop Segmentation.* In review.  
 
 ---
 
 ## Teaching Experience
+- **Fall 2025**: Fundamentals of Computer Science, Laboratory Assistant  
+- **Fall 2025**: Deep Learning for Computer Vision, Teaching Assistant  
 - **Fall 2024**: Fundamentals of Computer Science, Laboratory Assistant  
 - **Fall 2023**: Fundamentals of Computer Science, Laboratory Assistant  
 - **Spring 2022**: Game Development, Laboratory Assistant  
@@ -62,6 +67,8 @@ My research focuses on Artificial Intelligence, Robotics, and Autonomous Systems
 ---
 
 ## Thesis Mentoring
+- **2026 - Present**: *Improving Fine Grained Reasoning in VLM* – Matteo Bernardi
+- **2026 - Present**: *Improve Segmentation Models using a VLM* – Daniele Spini
 - **2026 - Present**: *Following Temporal Graph Traces in Videos* – Donald Gera
 - **2025 - Present**: *Multimodal Few Shot Segmentation in Videos* – Michele Cavicchioli
 - **2025 - 2026**: *Training Vision Tasks Using Diagnostic Text Description Loss* – Luca Olivieri 
