@@ -24,5 +24,3 @@ My research journey began in 2021 with a focus on Few Shot Learning and Few Shot
 
 My academic foundation was built through diverse international experiences. I earned my MSc in Computer Science and Engineering in 2021 through a dual degree program under the [EIT Digital](https://www.eitdigital.eu) initiative, studying at both [KTH Royal Institute of Technology](https://www.kth.se) in Stockholm and [Eötvös Loránd University](https://www.elte.hu) in Budapest, where I specialized in Autonomous Systems with a strong emphasis on Artificial Intelligence and Robotics. Prior to that, I gained my BSc in Computer Science and Engineering at [Politecnico di Milano](https://www.polimi.it) in 2019.
 
-
----
