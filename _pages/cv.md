@@ -42,6 +42,7 @@ My research focuses on Artificial Intelligence, Robotics, and Autonomous Systems
 ## Publications
 
 ### **Published**
+- *A Synonym Away from Failure: Measuring and Mitigating Word-Choice Sensitivity in Promptable Concept Segmentation.* Michele Cavicchioli, Stefano Samele, **Nico Catalano**, Matteo Matteucci. Third Workshop on Fairness and Ethics Towards Transparent AI: Facing the Challenge Through Model Debiasing, ECCV 2026.
 - *Balancing Accuracy and Cost in Precision Agriculture: A Few-Shot Learning Approach for Efficient Weed-Crop Segmentation.* **Nico Catalano**, Sofia Matilde Luglio, Agnese Chiatti, Mino Sportelli, Christian Frasconi, Davide Facchinetti, Matteo Matteucci. Computers and Electronics in Agriculture 2026.  
 - *MARS: a multimodal alignment and ranking system for few-shot segmentation.* **Nico Catalano**, Stefano Samele, Paolo Pertino, Matteo Matteucci. WACV 2026.
 - *Differentiable Hierarchical Visual Tokenization.* Marius Aasan, Martine Hjelkrem-Tan, **Nico Catalano**, Changkyu Choi, Adín Ramírez Rivera. NeurIPS 2025.
@@ -70,7 +71,7 @@ My research focuses on Artificial Intelligence, Robotics, and Autonomous Systems
 - **2026 - Present**: *Improving Fine Grained Reasoning in VLM* – Matteo Bernardi
 - **2026 - Present**: *Improve Segmentation Models using a VLM* – Daniele Spini
 - **2026 - Present**: *Following Temporal Graph Traces in Videos* – Donald Gera
-- **2025 - Present**: *Multimodal Few Shot Segmentation in Videos* – Michele Cavicchioli
+- **2025 - 2026**: *Multimodal Few Shot Segmentation in Videos* – Michele Cavicchioli
 - **2025 - 2026**: *Training Vision Tasks Using Diagnostic Text Description Loss* – Luca Olivieri 
 - **2024 - 2025**: *Understanding Video Content with Multimodal Large Language Models and Graphs* – Fabio Lusha  
 - **2024 - 2025**: *Visual Foundation Model for Few-Shot Segmentation and Anomaly Detection* – Paolo Pertino  
