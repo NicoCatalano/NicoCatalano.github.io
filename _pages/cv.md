@@ -42,7 +42,7 @@ My research focuses on Artificial Intelligence, Robotics, and Autonomous Systems
 ## Publications
 
 ### **Published**
-- *A Synonym Away from Failure: Measuring and Mitigating Word-Choice Sensitivity in Promptable Concept Segmentation.* Michele Cavicchioli, Stefano Samele, **Nico Catalano**, Matteo Matteucci. Third Workshop on Fairness and Ethics Towards Transparent AI: Facing the Challenge Through Model Debiasing, ECCV 2026.
+- *A Synonym Away from Failure: Measuring and Mitigating Word-Choice Sensitivity in Promptable Concept Segmentation.* Michele Cavicchioli, Stefano Samele, **Nico Catalano**, Matteo Matteucci. Workshop of ECCV 2026.
 - *Balancing Accuracy and Cost in Precision Agriculture: A Few-Shot Learning Approach for Efficient Weed-Crop Segmentation.* **Nico Catalano**, Sofia Matilde Luglio, Agnese Chiatti, Mino Sportelli, Christian Frasconi, Davide Facchinetti, Matteo Matteucci. Computers and Electronics in Agriculture 2026.  
 - *MARS: a multimodal alignment and ranking system for few-shot segmentation.* **Nico Catalano**, Stefano Samele, Paolo Pertino, Matteo Matteucci. WACV 2026.
 - *Differentiable Hierarchical Visual Tokenization.* Marius Aasan, Martine Hjelkrem-Tan, **Nico Catalano**, Changkyu Choi, Adín Ramírez Rivera. NeurIPS 2025.
